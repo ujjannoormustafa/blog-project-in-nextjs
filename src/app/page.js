@@ -10,7 +10,7 @@ function NameListApp() {
   };
 
   const handleAddName = () => {
-    if (name.trim() !== '') {
+   {
       setNamesList([...namesList, name]);
       setName('');
     }
