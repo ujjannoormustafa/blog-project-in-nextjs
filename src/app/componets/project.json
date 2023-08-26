@@ -1,0 +1,157 @@
+[
+    {
+        "id": "a7gLRier7g",
+        "name": "Augier.art",
+        "link": "https://www.augier.art/",
+        "img": "/project/augier.art.png",
+        "color": "black",
+        "textColor": "black",
+        "bgColor": "black",
+        "stack": [
+            "html",
+            "css",
+            "js",
+            "model-viewer",
+            "MUI",
+            "emotion styled",
+            "Next.js 12"
+        ],
+        "details": "I worked as a freelance front-end web developer for augier. It’s a AI based Fund Intelligence Application. I learn how to do team work in that Project. utilizing Next.js 12 with MUI and Ant Design to create the front-end. Additionally, I assisted "
+    },
+    {
+        "id": "s7LLRi7g",
+        "name": "topserver-copiers",
+        "link": "https://topserve-copiers.co.uk",
+        "img": "/project/topserve.png",
+        "color": "#58ddc5",
+        "textColor": "black",
+        "stack": [
+            "figma",
+            "spline3D",
+            "html",
+            "css",
+            "js",
+            "Ant Design",
+            "Tailwincss",
+            "React.js"
+        ],
+        "bgColor": "#58ddc5",
+        "details": "I create topserve-copiers.co.uk from scratch, handling both UI/UX design and full development. I leverage React.js, Tailwind CSS, and Ant Design for the development process. Figma is my preferred tool for designing the UI/UX."
+    },
+    {
+        "id": "UPTCnAxV",
+        "name": "Distrokings",
+        "link": "https://distrokings.com/",
+        "img": "/project/distrokings.png",
+        "color": "#3552e7",
+        "textColor": "#black",
+        "bgColor": "#3552e7",
+        "stack": [
+            "figma",
+            "spline3D",
+            "Photoshop",
+            "html",
+            "css",
+            "js",
+            "react-reveal",
+            "Tailwincss",
+            "React.js",
+            "firebase Authentication",
+            "firebase database"
+        ],
+        "details": "I have created topserve.co.uk from scratch, handling logo design, UI/UX design, and both front-end and back-end development. I utilized React.js, Tailwind CSS, and Ant Design for the front-end, while Firebase powered the back-end. Figma played a pivotal role in crafting the UI/UX design"
+    },
+    {
+        "id": "HsRzX8yy",
+        "name": "RoofingupFL",
+        "link": "https://roofingupfl.com/",
+        "img": "/project/roofingupfl.png",
+        "color": "#ff6600",
+        "textColor": "#black",
+        "bgColor": "#ff6600",
+        "stack": [
+            "figma",
+            "spline3D",
+            "html",
+            "css",
+            "js",
+            "Tailwincss",
+            "React.js"
+        ],
+        "details": "I create roofingupfl from scratch, handling both UI/UX design and full development. I leverage React.js, Tailwind CSS, and Ant Design for the development process. Figma is my preferred tool for designing the UI/UX."
+    },
+    {
+        "id": "a7gLRiera7gi",
+        "name": "Augier.ai",
+        "link": "https://www.augier.ai/",
+        "img": "/project/augier.ai.png",
+        "color": "#000",
+        "textColor": "black",
+        "bgColor": "black",
+        "stack": [
+            "html",
+            "css",
+            "js",
+            "Ant Design",
+            "Styled Components",
+            "Next.js 12"
+        ],
+        "details": "Augier.ai is a ai based "
+    },
+    {
+        "id": "DX0x2DpX",
+        "name": "Lazy Fit",
+        "link": "https://lazyfit.ca/",
+        "img": "/project/lazyfit.png",
+        "color": "#0b0b0f",
+        "textColor": "black",
+        "stack": [
+            "html",
+            "css",
+            "js",
+            "sal.js",
+            "locomotive.js",
+            "three.js"
+        ],
+        "bgColor": "black"
+    },
+    {
+        "id": "HVdIcENd",
+        "name": "Metawarz",
+        "link": "http://www.metawarz.io/",
+        "img": "/project/metawarz.png",
+        "color": "#dc3545",
+        "textColor": "#black",
+        "bgColor": "#dc3545",
+        "stack": [
+            "html",
+            "css",
+            "js",
+            "bootstrap",
+            "video.js",
+            "aos",
+            "imagesloaded",
+            "swiper.js",
+            "gsap",
+            "gsap scrolltrigger"
+        ]
+    },
+    {
+        "id": "HR2PkdIs",
+        "name": "RebelPunks",
+        "link": "http://www.metawarz.io/RebelPunks/",
+        "img": "/project/rebelpunks.png",
+        "color": "#dc3545",
+        "textColor": "#black",
+        "bgColor": "#2de8c2",
+        "stack": [
+            "html",
+            "css",
+            "js",
+            "slick.js",
+            "gsap",
+            "imagesloaded",
+            "aos.js"
+        ]
+    }
+]
